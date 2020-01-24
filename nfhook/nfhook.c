@@ -1,7 +1,4 @@
-/*
- * Experimental RootKit
- * Simple RootKit for the EARL project
- */
+// MODIFIED NO LONGER ORIGINAL
 
 #include <linux/init.h>
 #include <linux/kernel.h>
